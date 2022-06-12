@@ -1,4 +1,4 @@
-f = open('sample.txt')
+f = open('sample_1.txt')
 
 # read first line
 data = f.readline() 
