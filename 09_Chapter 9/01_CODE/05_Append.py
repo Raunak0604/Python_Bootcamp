@@ -1,4 +1,4 @@
-f = open('sample_3.txt', 'a')
+f = open('06_sample_3.txt', 'a')
 f.write("I am writing \n") 
 f.write("I am a bad boy")
 f.write("I am a bad boy")
